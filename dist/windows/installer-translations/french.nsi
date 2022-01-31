@@ -15,7 +15,7 @@ LangString inst_magnet ${LANG_FRENCH} "Ouvrir liens magnet avec qBittorrent"
 ;LangString inst_firewall ${LANG_ENGLISH} "Add Windows Firewall rule"
 LangString inst_firewall ${LANG_FRENCH} "Ajouter règle Pare-Feu Windows"
 ;LangString inst_pathlimit ${LANG_ENGLISH} "Disable Windows path length limit (260 character MAX_PATH limitation, requires Windows 10 1607 or later)"
-LangString inst_pathlimit ${LANG_FRENCH} "Disable Windows path length limit (260 character MAX_PATH limitation, requires Windows 10 1607 or later)"
+LangString inst_pathlimit ${LANG_FRENCH} "Désactiver la limite de longueur du chemin Windows (Limitation MAX_PATH de 260 caractères, nécessite Windows 10 1607 ou version ultérieure)"
 ;LangString inst_firewallinfo ${LANG_ENGLISH} "Adding Windows Firewall rule"
 LangString inst_firewallinfo ${LANG_FRENCH} "Ajout règle Pare-Feu Windows"
 ;LangString inst_warning ${LANG_ENGLISH} "qBittorrent is running. Please close the application before installing."
@@ -31,7 +31,7 @@ LangString inst_requires_64bit ${LANG_FRENCH} "Cet installateur ne fonctionne qu
 ;LangString inst_requires_win7 ${LANG_ENGLISH} "This qBittorrent version requires at least Windows 7."
 LangString inst_requires_win7 ${LANG_FRENCH} "Cette version de qBittorrent nécessite au moins Windows 7."
 ;LangString inst_uninstall_link_description ${LANG_ENGLISH} "Uninstall qBittorrent"
-LangString inst_uninstall_link_description ${LANG_FRENCH} "Uninstall qBittorrent"
+LangString inst_uninstall_link_description ${LANG_FRENCH} "Désinstaller qBittorrent"
 
 ;------------------------------------
 ;Uninstaller strings
